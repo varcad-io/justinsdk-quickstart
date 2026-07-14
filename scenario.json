@@ -1,0 +1,6 @@
+{
+  "title": "JustinSDK / dotSCAD Quickstart",
+  "entryPath": "/index.scad",
+  "linkedLibraries": ["justinsdk"],
+  "features": ["openscad", "justinsdk", "dotscad", "widgets", "quickstart"]
+}
