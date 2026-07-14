@@ -14,7 +14,7 @@ A minimal introduction to using a dotSCAD module in a Varcad OpenSCAD project.
 ## Library import
 
 ```scad
-use </Libraries/JustinSDK/src/rounded_cube.scad>;
+use <@justinsdk/src/rounded_cube.scad>;
 ```
 
 Open the project in Varcad, adjust the dimensions and corner radius, and render the result.

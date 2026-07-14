@@ -1,4 +1,4 @@
-use </Libraries/JustinSDK/src/rounded_cube.scad>;
+use <@justinsdk/src/rounded_cube.scad>;
 
 width = is_undef(width) ? 30 : width;
 depth = is_undef(depth) ? 20 : depth;
